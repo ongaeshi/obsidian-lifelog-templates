@@ -26,11 +26,14 @@ Obsidian で日々の記録（ライフログ）、振り返り、5年日記を�
     - 過去数年分の同日の記録用ヘッダー
     - 前日へのリンク
 
-## 必須プラグイン
+## 使用プラグイン
 - [Templater](https://github.com/SilentVoid13/Templater)
     - 日付計算や動的なコンテンツ生成に使用します。
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
     - データの集計やグラフ描画（DataviewJS）に使用します。
+- [Previsous River](https://github.com/ongaeshi/obsidian-previous-river) (Optional)
+    - previous プロパティが設定されたノートを前後に移動するために使用します。
+
 
 ## 使い方
 1. テンプレートファイルを Obsidian のテンプレートフォルダに配置します。
