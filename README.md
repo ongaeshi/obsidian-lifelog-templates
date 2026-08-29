@@ -10,9 +10,17 @@
 
 これは決して教条的な（押し付けがましい）ものではなく、あくまで Obsidian の使い方の一例に過ぎません。気に入った部分を取り入れて、ご自身のニーズに合わせてカスタマイズしてください。
 
-このVault構造の詳しい説明については、私のサイトの記事 [いまから書きます...](https://ongaeshi.hatenablog.com/) をご覧ください。
+このVault構造の詳しい説明については、私の[ブログ記事](https://ongaeshi.hatenablog.com/)をご覧ください。
 
 ※ ご推察の通り、このレポジトリは [kepano-obsidian](https://github.com/kepano/kepano-obsidian/) から強い影響を受けています。
+
+## 使い方
+
+1. `git clone https://github.com/ongaeshi/ongaeshi-obsidian.git`
+2. クローンしたリポジトリを Obsidian で Vault として開く。
+3. デイリーノートやウィークリーノートを開き、`Alt+,` と `Alt+.` で前後のノートに移動する（ホットキーはお好みのものに変更してください）。
+4. `Categories/` フォルダ内のノートを開き、カテゴリごとにノートを一覧する。各ノートの `categories` プロパティのリンクからもカテゴリノートに移動できる。
+5. ノートを作成するときは適切なテンプレートを選ぶ。日々の記録や各データの確認は `Categories/` フォルダ内のビューから行う。
 
 ## フォルダ構造
 
