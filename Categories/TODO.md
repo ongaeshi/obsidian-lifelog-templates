@@ -1,6 +1,6 @@
 ---
-tags:
-  - categories
+categories:
+  - "[[カテゴリ]]"
 ---
 ```base
 views:
